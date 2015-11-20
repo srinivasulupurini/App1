@@ -21,10 +21,12 @@ ul li {
   font: bold 12px/18px sans-serif;
   display: inline-block;
   margin-right: -4px;
+   margin: 1;
   position: relative;
   padding: 15px 20px;
-  background: #fff;
+  background: orange;
   cursor: pointer;
+  width: 125px;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -ms-transition: all 0.2s;
