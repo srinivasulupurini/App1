@@ -6,6 +6,13 @@ body {
   background: #E3CAA1;
   background-image:url("mainbg.jpg")
 }
+a {
+  font-size: 13px;
+  text-align: center;
+  text-decoration: none !important;
+  color: #FFFFFF
+  
+}
 
 ul {
   text-align: left;
